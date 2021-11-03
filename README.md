@@ -34,7 +34,7 @@
 | title      | string     | null: false                    |
 | catch_copy | string     | null: false                    |
 | concept    | text       | null: false                    |
-| image      | idk        | null: false                    |
+| image      | ASで実装    | null: false                    |
 | user       | references | null: false, foreign_key: true |
 
 - belongs_to :users
